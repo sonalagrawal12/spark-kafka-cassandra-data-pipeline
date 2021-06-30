@@ -1,0 +1,4 @@
+com\example\KafkaSpark.class
+com\example\model\words.class
+com\example\producer\KafkaProducerApp.class
+com\example\producer\KafkaProducerApp$1.class
